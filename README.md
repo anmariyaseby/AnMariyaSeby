@@ -1,12 +1,22 @@
 <p align="center">
-  <img src="https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp" alt="MERN Stack Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQHK_XcVi1f4MQ/company-background_10000/company-background_10000/0/1607639631297/mernstack_cover?e=2147483647&v=beta&t=-457AvBNGV35uGBE4lMo4WKmuOujnJS8hdimTJP6HiM" alt="MERN Stack Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm An Mariya Seby  
-
-🚀 **Frontend Developer | MERN Stack Intern**  
-🎓 **B.Tech in Electronics & Communication Engineering (2020-2024) - First Class with Distinction (CGPA: 8.21)**  
-💻 **Passionate about Web Development**  
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="left" width="60%">
+        <h1>👋 Hi, I'm An Mariya Seby</h1>
+        🚀 <strong>Frontend Developer | MERN Stack Intern</strong> <br>
+        🎓 <strong>B.Tech in Electronics & Communication Engineering (2020-2024) - First Class with Distinction (CGPA: 8.21)</strong> <br>
+        💻 <strong>Passionate about Web Development</strong>
+      </td>
+      <td align="right" width="40%">
+        <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="300px" alt="Frontend Developer GIF">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
