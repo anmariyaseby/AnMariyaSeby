@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp" alt="MERN Stack Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm An Mariya Seby  
 
 🚀 **Frontend Developer | MERN Stack Intern**  
