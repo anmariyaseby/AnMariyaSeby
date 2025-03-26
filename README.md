@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQHK_XcVi1f4MQ/company-background_10000/company-background_10000/0/1607639631297/mernstack_cover?e=2147483647&v=beta&t=-457AvBNGV35uGBE4lMo4WKmuOujnJS8hdimTJP6HiM" alt="MERN Stack Banner" width="100%" />
+  <img src="https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp" alt="MERN Stack Banner" width="100%" />
 </p>
+
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
