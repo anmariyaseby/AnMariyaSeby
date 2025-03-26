@@ -15,20 +15,23 @@
 
 ### 📂 Projects  
 
-#### 🔥 AS-Nallaruchi Recipe Management System [Link]  
+#### 🔥 AS-Nallaruchi Recipe Management System  
+🔗 [https://sebyasnallaruchiwebsite.netlify.app/](https://sebyasnallaruchiwebsite.netlify.app/)
 📅 February 2025  
 - Developed a **recipe management system** using the **MERN stack** (MongoDB, Express, React, Node.js) with authentication and **CRUD functionalities**.  
 - Enabled users to **register, log in, and manage recipes** (add, edit, delete, view).  
 - Integrated **YouTube video links** for cooking tutorials.  
 - Designed a **user-friendly dashboard** for exploring and managing recipes.  
 
-#### 🏋️ AS-FitZone Website [Link]  
+#### 🏋️ AS-FitZone Website  
+🔗 [https://sebyasfitzonereact.netlify.app/](https://sebyasfitzonereact.netlify.app/)  
 📅 January 2025  
 - Built a **fitness website** using **React and React-Bootstrap**, incorporating **state management, routing, and JSON for data handling**.  
 - Allowed users to **add, manage, and view** workout details, instructor profiles, and workout history with **CRUD functionality**.  
 - Integrated **YouTube videos** for workout classes and tracked watched history.  
 
-#### 🎬 Movie Hunt [Link]  
+#### 🎬 Movie Hunt  
+🔗 [https://sebymoviehub.netlify.app/](https://sebymoviehub.netlify.app/)   
 📅 December 2024  
 - Developed a **movie search platform** using **HTML, Bootstrap, and JavaScript**.  
 - Enabled users to **search and view movie details** through an interactive interface.  
