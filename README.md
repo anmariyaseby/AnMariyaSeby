@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
@@ -34,31 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px" alt="Figma"/>
 </p>  
-
----
-
-## 📂 Projects  
-
-### 🔥 AS-Nallaruchi Recipe Management System  
-🔗 [![Website](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel)](https://sebyasnallaruchiwebsite.netlify.app/)
-📅 February 2025  
-- Developed a **recipe management system** using **MERN stack** (MongoDB, Express, React, Node.js).  
-- Enabled users to **register, log in, and manage recipes** (add, edit, delete, view).  
-- Integrated **YouTube video links** for cooking tutorials.  
-
-### 🏋️ AS-FitZone Website  
-🔗 [![Website](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel)](https://sebyasfitzonereact.netlify.app/)  
-📅 January 2025  
-- Built a **fitness website** using **React and React-Bootstrap**, incorporating **state management, routing, and JSON for data handling**.  
-- Allowed users to **add, manage, and view** workout details, instructor profiles, and workout history.  
-
-### 🎬 Movie Hunt  
-🔗 [![Website](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel)](https://sebymoviehub.netlify.app/)  
-📅 December 2024  
-- Developed a **movie search platform** using **HTML, Bootstrap, and JavaScript**.  
-- Enabled users to **search and view movie details** through an interactive interface.  
-
----
 
 ## 📫 Connect with Me  
 <p align="center">
