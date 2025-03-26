@@ -1,54 +1,75 @@
 # 👋 Hi, I'm An Mariya Seby  
 
-🚀 Frontend Developer | MERN Stack Intern  
-🎓 B.Tech in Electronics & Communication Engineering (2020-2024)  
-💻 Passionate about Web Development  
+🚀 **Frontend Developer | MERN Stack Intern**  
+🎓 **B.Tech in Electronics & Communication Engineering (2020-2024) - First Class with Distinction (CGPA: 8.21)**  
+💻 **Passionate about Web Development**  
 
 ---
 
-### 🛠 Tech Stack  
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Tools:** Git, GitHub, Figma  
+## 🛠 Tech Stack  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express&theme=light" width="50px" height="50px" alt="Express.js"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px" alt="Figma"/>
+</p>  
 
 ---
 
-### 📂 Projects  
+## 📂 Projects  
 
-#### 🔥 AS-Nallaruchi Recipe Management System  
-🔗 [https://sebyasnallaruchiwebsite.netlify.app/](https://sebyasnallaruchiwebsite.netlify.app/)
+### 🔥 AS-Nallaruchi Recipe Management System  
+🔗 [![Website](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel)](https://sebyasnallaruchiwebsite.netlify.app/)
 📅 February 2025  
-- Developed a **recipe management system** using the **MERN stack** (MongoDB, Express, React, Node.js) with authentication and **CRUD functionalities**.  
+- Developed a **recipe management system** using **MERN stack** (MongoDB, Express, React, Node.js).  
 - Enabled users to **register, log in, and manage recipes** (add, edit, delete, view).  
 - Integrated **YouTube video links** for cooking tutorials.  
-- Designed a **user-friendly dashboard** for exploring and managing recipes.  
 
-#### 🏋️ AS-FitZone Website  
-🔗 [https://sebyasfitzonereact.netlify.app/](https://sebyasfitzonereact.netlify.app/)  
+### 🏋️ AS-FitZone Website  
+🔗 [![Website](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel)](https://sebyasfitzonereact.netlify.app/)  
 📅 January 2025  
 - Built a **fitness website** using **React and React-Bootstrap**, incorporating **state management, routing, and JSON for data handling**.  
-- Allowed users to **add, manage, and view** workout details, instructor profiles, and workout history with **CRUD functionality**.  
-- Integrated **YouTube videos** for workout classes and tracked watched history.  
+- Allowed users to **add, manage, and view** workout details, instructor profiles, and workout history.  
 
-#### 🎬 Movie Hunt  
-🔗 [https://sebymoviehub.netlify.app/](https://sebymoviehub.netlify.app/)   
+### 🎬 Movie Hunt  
+🔗 [![Website](https://img.shields.io/badge/Live%20Demo-%23000000.svg?style=for-the-badge&logo=vercel)](https://sebymoviehub.netlify.app/)  
 📅 December 2024  
 - Developed a **movie search platform** using **HTML, Bootstrap, and JavaScript**.  
 - Enabled users to **search and view movie details** through an interactive interface.  
-- Optimized for **smooth browsing and responsiveness** across devices.  
 
 ---
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anmariyaseby)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/anmariyaseby)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](anmariya.ms@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im.anmariyaseby)  
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/anmariyaseby">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" height="50px" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/anmariyaseby">
+    <img src="https://skillicons.dev/icons?i=git&theme=light" width="50px" height="50px" alt="Git"/>
+  </a>
+  <a href="mailto:anmariya.ms@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50px" height="50px" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/im.anmariyaseby">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50px" height="50px" alt="Instagram"/>
+</a>
+
+  </a>
+</p>  
+
 ---
 
-### 📊 GitHub Stats  
-![Annmariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-
----
-
-
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmariyaseby&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmariyaseby&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmariyaseby&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>  
